@@ -1,6 +1,6 @@
 <!---------- Title/ Logo -------------->
 <h1 align="center">
-  <img alt="MoveIt" title="Imersão-Dados-Python" src="screen_shots/imersao_dados_python.png" width="220px"/>
+  <img alt="Imersão dados_python" title="Imersão-Dados-Python" src="screen_shots/imersao_dados_python.png" width="220px"/>
 </h1>
 
 <!-- ------- Ancoras --------------->
